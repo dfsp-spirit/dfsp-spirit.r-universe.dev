@@ -19,8 +19,4 @@
         "package": "pckfilecache",
         "url": "https://github.com/dfsp-spirit/pkgfilecache"
     },
-    {
-        "package": "pkgfuk",
-        "url": "https://github.com/ropenscilabs/rodev"
-    }
 ]
