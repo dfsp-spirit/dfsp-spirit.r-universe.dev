@@ -1,0 +1,27 @@
+s (30 sloc) 680 Bytes
+[
+    {
+        "package": "regfusionr",
+        "url": "https://github.com/dfsp-spirit/regfusionr"
+    },
+    {
+        "package": "freesurferformats",
+        "url": "https://github.com/dfsp-spirit/freesurferformats"
+    },
+    {
+        "package": "fsbrain",
+        "url": "https://github.com/dfsp-spirit/fsbrain"
+    },
+    {
+        "package": "haze",
+        "url": "https://github.com/dfsp-spirit/haze"
+    },
+    {
+        "package": "pckfilecache",
+        "url": "https://github.com/dfsp-spirit/pkgfilecache"
+    },
+    {
+        "package": "pkgfuk",
+        "url": "https://github.com/ropenscilabs/rodev"
+    }
+]
