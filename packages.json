@@ -18,5 +18,13 @@
     {
         "package": "pckfilecache",
         "url": "https://github.com/dfsp-spirit/pkgfilecache"
+    },
+    {
+        "package": "wal",
+        "url": "https://github.com/dfsp-spirit/wal"
+    },
+    {
+        "package": "pcx",
+        "url": "https://github.com/dfsp-spirit/pcx"
     }
 ]
