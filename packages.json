@@ -22,5 +22,9 @@
     {
         "package": "wal",
         "url": "https://github.com/dfsp-spirit/wal"
+    },
+    {
+        "package": "brainloc",
+        "url": "https://github.com/dfsp-spirit/brainloc"
     }
 ]
